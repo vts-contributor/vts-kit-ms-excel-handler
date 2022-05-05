@@ -18,8 +18,9 @@ Quick start
 
 * Then, add the following properties to your `application-*.yml` file.
 ```yaml
-example:
-  key: value
+vtskit:
+  excel:
+    example: value
 ```
 
 Usage
